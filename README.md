@@ -3,7 +3,7 @@ OpenCV+Qt实现视频播放功能
 
 # 效果图
 
-![运行截图](https://github.com/obervose/OpenCVDemo3/运行图.jpg)
+![运行截图](运行图.jpg)
 
 # 说明
 > 编译环境
